@@ -17,6 +17,7 @@ The project simulates a streaming service platform where users can browse and st
 - `main.cpp`: The main program file that drives the application.
 - `include/`: Contains the header files for class definitions.
 - `src/`: Contains the source files for class implementations.
+- `csv/`: Contains the data bases to use this repo
 
 ## Getting Started
 
